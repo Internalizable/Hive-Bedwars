@@ -1,0 +1,4 @@
+name: Bedwars
+version: ${project.version}
+main: me.compilable.bedwars.Bedwars
+description: A recreation of HiveMC's bedwars
